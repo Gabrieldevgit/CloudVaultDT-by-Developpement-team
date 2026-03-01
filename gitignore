@@ -1,0 +1,8 @@
+# ── CloudVault secrets — NEVER commit the real config ──────────
+config.js
+
+# Common ignores
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
