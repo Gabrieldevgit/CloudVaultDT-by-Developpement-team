@@ -1,0 +1,10 @@
+# Secret config — NEVER commit this
+config.js
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
